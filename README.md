@@ -1,4 +1,4 @@
-👋 Hi, I’m Nick, a data scientist at the New York Times, and a PhD candidate in the Computational Journalism Lab at Northwestern University. I research how collective attention works in large, complex systems. 
+👋 Hi, I’m Nick, a data scientist at the New York Times. I have a PhD from Northwestern University, where I researched how collective attention works in large, complex systems. 
 
 💻 I'm a computational social scientist who writes a lot of code in Python, SQL, and R. 
 
